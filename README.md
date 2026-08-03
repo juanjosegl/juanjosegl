@@ -28,11 +28,11 @@ No me limito a las tecnologías que ya domino. Confío en mi lógica de programa
 
 **🛍️ AM Shop — E-commerce empresarial**
 Plataforma completa con inventario transaccional, roles y permisos, caché con invalidación, jobs programados, subida de imágenes y despliegue en producción.
-[Backend](https://github.com/juanjosegl/ecommerce-backend) · [Frontend](https://github.com/juanjosegl/ecommerce-frontend)
+🔗 [Ver en vivo](https://ecommerce-frontend-ivory-nu.vercel.app/) · [Backend](https://github.com/juanjosegl/ecommerce-backend) · [Frontend](https://github.com/juanjosegl/ecommerce-frontend)
 
 **📋 ProjectFlow — Gestión de proyectos (SaaS)**
 Plataforma para gestión de equipos, proyectos y tareas, con autenticación con Google y manual, asignación de tareas y notificaciones.
-[Backend](https://github.com/juanjosegl/projectflow-api) · [Frontend](https://github.com/juanjosegl/projectflow-web)
+🔗 [Ver en vivo](https://projectflow-web-rho.vercel.app/) · [Backend](https://github.com/juanjosegl/projectflow-api) · [Frontend](https://github.com/juanjosegl/projectflow-web)
 
 ---
 
@@ -60,8 +60,10 @@ Full Stack Developer with one year of experience building and deploying producti
 At work I build with **Vue.js, Laravel, NestJS, and PHP**. In my personal projects, I use **Next.js and NestJS** to keep growing technically. I'm comfortable picking up new languages and frameworks — my focus is on writing solid, well-structured code, not just "making it work."
 
 **Featured projects:**
-- 🛍️ [AM Shop](https://github.com/juanjosegl/ecommerce-backend) — enterprise e-commerce with transactional inventory, RBAC, caching, and background jobs
-- 📋 [ProjectFlow](https://github.com/juanjosegl/projectflow-api) — SaaS platform for team, project, and task management
+- 🛍️ **AM Shop** — enterprise e-commerce with transactional inventory, RBAC, caching, and background jobs.
+  [Live demo](https://ecommerce-frontend-ivory-nu.vercel.app/) · [Backend](https://github.com/juanjosegl/ecommerce-backend) · [Frontend](https://github.com/juanjosegl/ecommerce-frontend)
+- 📋 **ProjectFlow** — SaaS platform for team, project, and task management.
+  [Live demo](https://projectflow-web-rho.vercel.app/) · [Backend](https://github.com/juanjosegl/projectflow-api) · [Frontend](https://github.com/juanjosegl/projectflow-web)
 
 📧 jjgutierrezlasso@gmail.com · [LinkedIn](https://www.linkedin.com/in/juan-jose-gutierrez-lasso-303695232)
 
