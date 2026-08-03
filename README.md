@@ -6,7 +6,7 @@ Desarrollador Full Stack con un año de experiencia construyendo y desplegando a
 
 En mi trabajo actual desarrollo con **Vue.js, Laravel, NestJS y PHP**, despliego directamente en servidores por SSH, y trabajo con bases de datos MySQL en producción. Fuera del trabajo, construyo proyectos con **Next.js y NestJS** para seguir subiendo el nivel de lo que puedo ofrecer — arquitecturas más completas, mejores prácticas, y sistemas más cercanos a lo que necesita una empresa real.
 
-No me limito a las tecnologías que ya domino. Confío en mi lógica de programación lo suficiente como para entrar a cualquier lenguaje o framework nuevo y ponerme al día rápido — así ha sido cada vez que me ha tocado hacerlo.
+Me interesa construir aplicaciones mantenibles, escalables y cercanas a escenarios reales de negocio. Disfruto aprender nuevas tecnologías cuando un proyecto lo requiere y aplicarlas siguiendo buenas prácticas de ingeniería de software.
 
 ---
 
