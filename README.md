@@ -1,7 +1,7 @@
 # Hola, soy Juan José Gutiérrez Lasso 👋
 
 **Full Stack Developer** · Vue.js · Laravel · NestJS · Next.js · TypeScript
-📍 Popayán, Colombia · Remoto · *(English summary below)*
+📍 Popayán, Colombia · Remoto · 🌐 **[juanjosegl.github.io](https://juanjosegl.github.io)** · *(English summary below)*
 
 Desarrollador Full Stack con **más de un año de experiencia remota en productos para EE. UU.** Fui el único desarrollador frontend de una plataforma de delivery creada desde cero (Vue.js + NestJS) y desarrollo módulos en un sistema de gestión empresarial con más de 100 usuarios semanales (Vue.js + Laravel). En mis proyectos propios construyo APIs con NestJS, PostgreSQL y Prisma con foco en seguridad y pruebas automatizadas.
 
@@ -54,7 +54,7 @@ Pedidos transaccionales con inventario auditable y sin sobreventa bajo concurren
 ---
 
 ### 📬 Contacto
-📧 jjgutierrezlasso@gmail.com · 💼 [linkedin.com/in/juanjosegl](https://www.linkedin.com/in/juanjosegl) · Abierto a oportunidades remotas.
+🌐 [Portafolio](https://juanjosegl.github.io) · 📧 jjgutierrezlasso@gmail.com · 💼 [linkedin.com/in/juanjosegl](https://www.linkedin.com/in/juanjosegl) · Abierto a oportunidades remotas.
 
 ---
 
@@ -73,6 +73,6 @@ Pedidos transaccionales con inventario auditable y sin sobreventa bajo concurren
 
 Systems Engineering degree expected April 2027 · CloudForge AI diploma (Cloud Native, DevSecOps, Kubernetes, MLOps) · English B1.
 
-📧 jjgutierrezlasso@gmail.com · [LinkedIn](https://www.linkedin.com/in/juanjosegl)
+🌐 [Portfolio](https://juanjosegl.github.io/en/) · 📧 jjgutierrezlasso@gmail.com · [LinkedIn](https://www.linkedin.com/in/juanjosegl)
 
 </details>
