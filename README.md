@@ -1,52 +1,60 @@
 # Hola, soy Juan José Gutiérrez Lasso 👋
 
-*(A short English summary is available below / Encuentras un resumen breve en inglés más abajo)*
+**Full Stack Developer** · Vue.js · Laravel · NestJS · Next.js · TypeScript
+📍 Popayán, Colombia · Remoto · *(English summary below)*
 
-Desarrollador Full Stack con un año de experiencia construyendo y desplegando aplicaciones web en producción, en remoto. Estoy cursando el último semestre de Ingeniería de Sistemas y buscando dar el siguiente paso en mi carrera.
+Desarrollador Full Stack con **más de un año de experiencia remota en productos para EE. UU.** Fui el único desarrollador frontend de una plataforma de delivery creada desde cero (Vue.js + NestJS) y desarrollo módulos en un sistema de gestión empresarial con más de 100 usuarios semanales (Vue.js + Laravel). En mis proyectos propios construyo APIs con NestJS, PostgreSQL y Prisma con foco en seguridad y pruebas automatizadas.
 
-En mi trabajo actual desarrollo con **Vue.js, Laravel, NestJS y PHP**, despliego directamente en servidores por SSH, y trabajo con bases de datos MySQL en producción. Fuera del trabajo, construyo proyectos con **Next.js y NestJS** para seguir subiendo el nivel de lo que puedo ofrecer — arquitecturas más completas, mejores prácticas, y sistemas más cercanos a lo que necesita una empresa real.
-
-Me interesa construir aplicaciones mantenibles, escalables y cercanas a escenarios reales de negocio. Disfruto aprender nuevas tecnologías cuando un proyecto lo requiere y aplicarlas siguiendo buenas prácticas de ingeniería de software.
+🎓 Ingeniería de Sistemas (grado en abril de 2027) · Diplomado CloudForge AI 5.0: Cloud Native, DevSecOps, Kubernetes y MLOps.
 
 ---
 
-### Experiencia profesional
-`Vue.js` · `Laravel` · `NestJS` · `PHP` · `MySQL` · `phpMyAdmin` · `SSH` · `Despliegue en servidor (Hostinger)`
+### 💼 Experiencia: Full Stack Developer · ASAP Temporary Staffing (remoto, EE. UU.) · ago. 2025 – actualidad
 
-### Proyectos personales
-`Next.js` · `NestJS` · `TypeScript` · `PostgreSQL` · `Prisma` · `Redis` · `Docker`
+**Plataforma de delivery (desde cero)** · `Vue.js` `NestJS` `TypeScript`
+- 100 % del frontend web como único desarrollador frontend: paneles para Restaurante, Soporte y Administrador.
+- Permisos configurables: el administrador activa o desactiva módulos por rol sin tocar código.
+- Endpoints en NestJS para la web y la app móvil, incluida toda la lógica de delivery.
 
-### Otras herramientas
-`React.js` · `Spring Boot` · `MongoDB` · `Java` · `C#`
-
-### Idiomas
-🇪🇸 Español (nativo) · 🇬🇧 Inglés (intermedio, en mejora continua — leo documentación técnica sin problema)
+**Atenas, gestión empresarial con 100+ usuarios semanales** · `Vue.js` `Laravel` `PHP` `MySQL`
+- Módulo de control de horario: clock in/out, pausas, calendario de asistencia, horas extra, ausencias y reportes a Excel.
+- 66 tickets resueltos, unas 50 tareas y más de 100 subtareas en un año: PDFs, nuevas funcionalidades e incidencias en producción.
+- Despliegues en Linux vía SSH y Git con pull requests; código y producto en inglés.
 
 ---
 
 ### 📌 Proyectos destacados
 
-**🛍️ AM Shop — E-commerce empresarial**
-Plataforma completa con inventario transaccional, roles y permisos, caché con invalidación, jobs programados, subida de imágenes y despliegue en producción.
-🔗 [Ver en vivo](https://ecommerce-frontend-ivory-nu.vercel.app/) · [Backend](https://github.com/juanjosegl/ecommerce-backend) · [Frontend](https://github.com/juanjosegl/ecommerce-frontend)
+**📋 ProjectFlow: SaaS de gestión de proyectos en equipo**
+API REST en NestJS con 7 módulos (kanban, invitaciones, notificaciones), permisos por rol validados en servidor, JWT con refresh token rotativo en cookie httpOnly, Google OAuth 2.0 y CI en GitHub Actions con pruebas unitarias y end-to-end contra PostgreSQL real.
+🔗 [Demo (un clic, sin registro)](https://projectflow-web-rho.vercel.app) · [API Docs](https://projectflow-api-iyet.onrender.com/api/docs) · [Frontend](https://github.com/juanjosegl/projectflow-web) · [Backend](https://github.com/juanjosegl/projectflow-api)
 
-**📋 ProjectFlow — Gestión de proyectos (SaaS)**
-Plataforma para gestión de equipos, proyectos y tareas, con autenticación con Google y manual, asignación de tareas y notificaciones.
-🔗 [Ver en vivo](https://projectflow-web-rho.vercel.app/) · [Backend](https://github.com/juanjosegl/projectflow-api) · [Frontend](https://github.com/juanjosegl/projectflow-web)
+**🛍️ AM Shop: plataforma e-commerce**
+Pedidos transaccionales con inventario auditable y sin sobreventa bajo concurrencia, ciclo de pedidos como máquina de estados con cancelación automática (cron), caché en Redis con respaldo a la base de datos, roles y login email/Google con fusión de cuentas.
+🔗 [Demo](https://ecommerce-frontend-ivory-nu.vercel.app) · [API Docs](https://am-shop-backend.onrender.com/api-docs) · [Frontend](https://github.com/juanjosegl/ecommerce-frontend) · [Backend](https://github.com/juanjosegl/ecommerce-backend)
 
----
+> ⏳ Las APIs corren en el plan gratuito de Render: la primera carga puede tardar unos 30–60 s.
 
-### Actualmente
-- 🎓 Cursando mi último semestre de Ingeniería de Sistemas
-- 💼 Trabajando en remoto como desarrollador web (1+ año)
-- 🔭 Construyendo proyectos con foco en arquitectura y buenas prácticas, no solo en que "funcione"
-- 📬 Abierto a conversar sobre nuevas oportunidades remotas
+**🤝 RedNexus (en desarrollo, proyecto del diplomado)**: red de apoyo académico que conecta cada pregunta con los compañeros que más saben del tema usando IA local. NestJS, pgvector, BullMQ, Ollama, Vue 3 y Kubernetes.
+🔗 [Backend](https://github.com/juanjosegl/RedNexus-Backend) · [Frontend](https://github.com/juanjosegl/RedNexus-Frontend) · [Plataforma](https://github.com/juanjosegl/RedNexus-Platform)
 
 ---
 
-### Contacto
-📧 jjgutierrezlasso@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/juan-jose-gutierrez-lasso-303695232)
+### 🛠️ Habilidades
+
+| | |
+|---|---|
+| **Lenguajes** | TypeScript, JavaScript, PHP, SQL, Python, Java |
+| **Frontend** | Vue.js, React, Next.js, Tailwind CSS |
+| **Backend** | NestJS, Node.js, Laravel, APIs REST, Prisma, Swagger/OpenAPI |
+| **Bases de datos** | PostgreSQL, MySQL, Redis, MongoDB |
+| **DevOps y testing** | Docker, Git, GitHub Actions, Jest, Linux, SSH, Vercel, Render |
+| **Idiomas** | Español (nativo) · Inglés (B1, lectura técnica) |
+
+---
+
+### 📬 Contacto
+📧 jjgutierrezlasso@gmail.com · 💼 [linkedin.com/in/juanjosegl](https://www.linkedin.com/in/juanjosegl) · Abierto a oportunidades remotas.
 
 ---
 
@@ -55,16 +63,16 @@ Plataforma para gestión de equipos, proyectos y tareas, con autenticación con 
 
 <br>
 
-Full Stack Developer with one year of experience building and deploying production web applications remotely. Currently in my final semester of a Systems Engineering degree.
+**Full Stack Developer** (Vue.js · Laravel · NestJS · Next.js · TypeScript) with 1+ year of remote experience building products for US companies. Based in Popayán, Colombia; open to remote roles.
 
-At work I build with **Vue.js, Laravel, NestJS, and PHP**. In my personal projects, I use **Next.js and NestJS** to keep growing technically. I'm comfortable picking up new languages and frameworks — my focus is on writing solid, well-structured code, not just "making it work."
+- **Sole frontend developer** of a delivery platform built from scratch (Vue.js + NestJS), with configurable role-based permissions.
+- **Module developer** on Atenas, a business management system with 100+ weekly users (Vue.js + Laravel): built the time-tracking module and closed 66 production tickets.
+- **Personal projects**, both live:
+  - **ProjectFlow**, a team project management SaaS: NestJS REST API, rotating refresh tokens, Google OAuth, CI with unit and end-to-end tests. [Live demo](https://projectflow-web-rho.vercel.app) · [API docs](https://projectflow-api-iyet.onrender.com/api/docs)
+  - **AM Shop**, an e-commerce platform: transactional orders with no overselling, order state machine, Redis caching, RBAC. [Live demo](https://ecommerce-frontend-ivory-nu.vercel.app) · [API docs](https://am-shop-backend.onrender.com/api-docs)
 
-**Featured projects:**
-- 🛍️ **AM Shop** — enterprise e-commerce with transactional inventory, RBAC, caching, and background jobs.
-  [Live demo](https://ecommerce-frontend-ivory-nu.vercel.app/) · [Backend](https://github.com/juanjosegl/ecommerce-backend) · [Frontend](https://github.com/juanjosegl/ecommerce-frontend)
-- 📋 **ProjectFlow** — SaaS platform for team, project, and task management.
-  [Live demo](https://projectflow-web-rho.vercel.app/) · [Backend](https://github.com/juanjosegl/projectflow-api) · [Frontend](https://github.com/juanjosegl/projectflow-web)
+Systems Engineering degree expected April 2027 · CloudForge AI diploma (Cloud Native, DevSecOps, Kubernetes, MLOps) · English B1.
 
-📧 jjgutierrezlasso@gmail.com · [LinkedIn](https://www.linkedin.com/in/juan-jose-gutierrez-lasso-303695232)
+📧 jjgutierrezlasso@gmail.com · [LinkedIn](https://www.linkedin.com/in/juanjosegl)
 
 </details>
